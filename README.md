@@ -1,4 +1,4 @@
-# You Shalt Not Pass
+# Thou Shalt Not Pass
 
 # Our Blog
 http://nextlvlkk.blogspot.com/
