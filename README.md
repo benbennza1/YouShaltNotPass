@@ -1,6 +1,7 @@
-# DOTA
-Defense Of The mAgi
+# You Shalt Not Pass
 
+# Our Blog
+http://nextlvlkk.blogspot.com/
 
 # Git convension
 
